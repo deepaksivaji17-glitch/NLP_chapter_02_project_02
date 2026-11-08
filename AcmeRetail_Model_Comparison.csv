@@ -1,0 +1,31 @@
+name,main_category,sub_category,similarity_score,model,rank
+MIZAGO Women s Top,women s clothing,Western Wear,0.7062,TF-IDF,1
+Clothzy Women s Top,women s clothing,Western Wear,0.7062,TF-IDF,2
+Stylistico Women s Top,women s clothing,Western Wear,0.5823,TF-IDF,3
+SIDDHANAM Women Top,women s clothing,Western Wear,0.5761,TF-IDF,4
+MISVERSE Women Top,women s clothing,Western Wear,0.5761,TF-IDF,5
+ishin Women Top,women s clothing,Western Wear,0.5716,TF-IDF,6
+Harpa Women TOP,women s clothing,Western Wear,0.5516,TF-IDF,7
+Harpa Women Top,women s clothing,Western Wear,0.5516,TF-IDF,8
+Harpa Women s Top,women s clothing,Western Wear,0.5516,TF-IDF,9
+MIZAGO Women s Top,women s clothing,Clothing,0.5514,TF-IDF,10
+MISVERSE Women Top,women s clothing,Western Wear,0.9979000091552734,Word2Vec,1
+SIDDHANAM Women Top,women s clothing,Western Wear,0.9973999857902527,Word2Vec,2
+pluss Women Top,women s clothing,Western Wear,0.9970999956130981,Word2Vec,3
+SAAKAA Women s Top,women s clothing,Western Wear,0.9961000084877014,Word2Vec,4
+Clothzy Women s Top,women s clothing,Western Wear,0.9955999851226807,Word2Vec,5
+MIZAGO Women s Top,women s clothing,Western Wear,0.9955000281333923,Word2Vec,6
+Prettify Women s Top,women s clothing,Western Wear,0.9954000115394592,Word2Vec,7
+Selvia Women Top,women s clothing,Western Wear,0.9951000213623047,Word2Vec,8
+Selvia Women TOP,women s clothing,Western Wear,0.9951000213623047,Word2Vec,9
+Stylistico Women s Top,women s clothing,Western Wear,0.994700014591217,Word2Vec,10
+MIDAAS Women s Top,women s clothing,Western Wear,0.9940999746322632,FastText,1
+pluss Women Top,women s clothing,Western Wear,0.9940999746322632,FastText,2
+MIZAGO Women s Top,women s clothing,Western Wear,0.9939000010490417,FastText,3
+pluss Women s Top,women s clothing,Western Wear,0.993399977684021,FastText,4
+Prettify Women s Top,women s clothing,Western Wear,0.9933000206947327,FastText,5
+Selvia Women Top,women s clothing,Western Wear,0.9922000169754028,FastText,6
+Selvia Women TOP,women s clothing,Western Wear,0.9922000169754028,FastText,7
+SAAKAA Women s Top,women s clothing,Western Wear,0.9916999936103821,FastText,8
+MISVERSE Women Top,women s clothing,Western Wear,0.991599977016449,FastText,9
+KOTTY Women s Top,women s clothing,Western Wear,0.991100013256073,FastText,10
